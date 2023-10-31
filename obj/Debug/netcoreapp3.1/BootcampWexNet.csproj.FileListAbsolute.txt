@@ -1,0 +1,13 @@
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.exe
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.deps.json
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.runtimeconfig.json
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.runtimeconfig.dev.json
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.dll
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\bin\Debug\netcoreapp3.1\BootcampWexNet.pdb
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.csprojAssemblyReference.cache
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.AssemblyInfoInputs.cache
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.AssemblyInfo.cs
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.csproj.CoreCompileInputs.cache
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.dll
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.pdb
+C:\Users\zgidu\OneDrive\Documentos\CursoDioMe\BootcampWexNet\obj\Debug\netcoreapp3.1\BootcampWexNet.genruntimeconfig.cache
